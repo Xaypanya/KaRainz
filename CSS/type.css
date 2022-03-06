@@ -1,0 +1,178 @@
+
+
+.index-main .TypeJS {
+    font-family: 'Ubuntu', sans-serif;
+    color: #FFF;
+    font-size: 50px;
+    width: 1100px;
+    float: right;
+    position: relative;
+    top: 300px;
+    right: 120px;
+
+}
+
+.index-main .TypeJS H1 {
+    letter-spacing: 5px;
+    font-size: 70px;
+}
+
+.index-main .TypeJS P {
+    width: 870px;
+    background-color: rgba(15, 15, 15, 0.514);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.index-main {
+    height: 2300px;
+}
+
+
+.index-main img {
+    width: 700px;
+    float: left;
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+
+
+
+
+@media (max-width:1536px) {
+
+    .index-main .TypeJS {
+        font-family: 'Ubuntu', sans-serif;
+        color: #FFF;
+        font-size: 37px;
+        width: 700px;
+        float: right;
+        position: relative;
+        top: 160px;
+        right: 270px;
+        
+    }
+    
+    .index-main .TypeJS H1 {
+        letter-spacing: 5px;
+        font-size: 50px;
+    }
+    
+    .index-main .TypeJS P {
+        width: 640px;
+        background-color: rgba(15, 15, 15, 0.514);
+        border-radius: 20px;
+        padding: 10px;
+    }
+    
+    .index-main {
+        height: 1750px;
+    }
+    
+    
+    .index-main img {
+        width: 500px;
+        float: left;
+        position: relative;
+        top: 55px;
+        left: 100px;
+    }
+}
+
+
+
+
+
+
+@media (max-width:1440px) {
+
+    .index-main .TypeJS {
+        font-family: 'Ubuntu', sans-serif;
+        color: #FFF;
+        font-size: 37px;
+        width: 700px;
+        float: right;
+        position: relative;
+        top: 160px;
+        right: 170px;
+        
+    }
+    
+    .index-main .TypeJS H1 {
+        letter-spacing: 5px;
+        font-size: 50px;
+    }
+    
+    .index-main .TypeJS P {
+        width: 640px;
+        background-color: rgba(15, 15, 15, 0.514);
+        border-radius: 20px;
+        padding: 10px;
+    }
+    
+    .index-main {
+        height: 1680px;
+    }
+    
+    
+    .index-main img {
+        width: 500px;
+        float: left;
+        position: relative;
+        top: 55px;
+        left: 100px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:1367px) {
+
+
+    .index-main .TypeJS {
+        font-family: 'Ubuntu', sans-serif;
+        color: #FFF;
+        font-size: 37px;
+        width: 700px;
+        float: right;
+        position: relative;
+        top: 160px;
+        right: 160px;
+     
+    
+    }
+    
+    .index-main .TypeJS H1 {
+        letter-spacing: 5px;
+        font-size: 50px;
+    }
+    
+    .index-main .TypeJS P {
+        width: 640px;
+        background-color: rgba(15, 15, 15, 0.514);
+        border-radius: 20px;
+        padding: 10px;
+    }
+    
+    .index-main {
+        height: 1700px;
+    }
+    
+    
+    .index-main img {
+        width: 500px;
+        float: left;
+        position: relative;
+        top: 55px;
+        left: 70px;
+    
+    }
+}
+
